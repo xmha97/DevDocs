@@ -1,1 +1,1 @@
-# Interface Segregation Principle (ISP)
+# Single Responsibility Principle (SRP)
