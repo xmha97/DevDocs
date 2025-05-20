@@ -1,1 +1,1 @@
-# Interface Segregation Principle (ISP)
+# Open/Closed Principle (OCP)

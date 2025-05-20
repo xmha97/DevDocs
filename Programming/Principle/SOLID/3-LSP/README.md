@@ -1,1 +1,1 @@
-# Interface Segregation Principle (ISP)
+# Liskov Substitution Principle (LSP)
