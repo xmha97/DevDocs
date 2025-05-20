@@ -1,1 +1,1 @@
-# Interface Segregation Principle (ISP)
+# Dependency Inversion Principle (DIP)
