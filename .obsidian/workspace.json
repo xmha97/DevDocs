@@ -11,10 +11,14 @@
             "id": "a2a386e8293e3362",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -164,7 +168,9 @@
   },
   "active": "a2a386e8293e3362",
   "lastOpenFiles": [
-    "README.md",
-    "Test.md"
+    "Test.md",
+    "DevOps/README.md",
+    "DevOps",
+    "README.md"
   ]
 }
