@@ -1,7 +1,7 @@
 متغیرها (Variables)
 نگهداری داده‌ها در حافظه.
 
-نوع داده (Data Types)
+نوع داده (DataTypes)
 مثل عدد (int, float)، متن (string)، بولی (true/false).
 
 عملگرها (Operators)
