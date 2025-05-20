@@ -11,15 +11,17 @@
             "id": "b1bde548d1a348b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -75,9 +77,10 @@
   },
   "active": "b1bde548d1a348b3",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.canvas",
     "DevOps/README.md",
     "DevOps/Ansible.md",
-    "README.md",
     "Test.md",
     "DevOps"
   ]
