@@ -1,1 +1,1 @@
-# Concepts | مفاهیم
+# Abstract Concepts | مفاهیم انتزاعی
