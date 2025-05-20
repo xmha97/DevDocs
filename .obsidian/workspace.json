@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4c66faa1a8d6b950",
+        "id": "ed5c822e1fb809a2",
         "type": "tabs",
         "children": [
           {
-            "id": "b1bde548d1a348b3",
+            "id": "8108b298ac3071b5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -66,20 +64,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b1bde548d1a348b3",
+  "active": "8108b298ac3071b5",
   "lastOpenFiles": [
+    "DevOps/README.md",
     "README.md",
     "Untitled.canvas",
-    "DevOps/README.md",
     "DevOps/Ansible.md",
     "Test.md",
     "DevOps"
