@@ -1,2 +1,2 @@
-# Pattern
+# Design Pattern
 الگو
