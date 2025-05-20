@@ -1,1 +1,1 @@
-# Design Pattern | الگو
+# Design Pattern | الگوی طراحی | دیزاین پترن
