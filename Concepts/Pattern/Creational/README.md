@@ -1,1 +1,1 @@
-# Creational Patterns | ساختاری
+# Creational Patterns | ساختی
