@@ -1,1 +1,1 @@
-Inheritance وراثت
+# Inheritance | وراثت
