@@ -1,6 +1,6 @@
 # Architectural Patterns | الگوهای معماری
 در سطح معماری اپلیکیشن هستن
-- MVC (Model–View–Controller)
+- Model–View–Controller MVC
 - MVVM (Model–View–ViewModel)
 - MVP (Model–View–Presenter)
 - Microservices
