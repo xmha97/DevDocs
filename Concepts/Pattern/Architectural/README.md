@@ -1,1 +1,1 @@
-Architectural Patterns (الگوهای معماری)
+# Architectural Patterns | الگوهای معماری

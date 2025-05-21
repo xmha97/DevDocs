@@ -1,1 +1,1 @@
-# Creational Patterns | ساختی
+# Creational Patterns | الگوهای ساختی

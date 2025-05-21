@@ -1,1 +1,1 @@
-# Structural Patterns | ساختاری
+# Structural Patterns | الگوهای ساختاری

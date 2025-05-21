@@ -1,1 +1,1 @@
-# Behavioral Patterns | رفتاری
+# Behavioral Patterns | الگوهای رفتاری
