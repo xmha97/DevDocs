@@ -1,1 +1,1 @@
-# Procedural
+# Procedural Programming | پارادایم رویه‌ای
