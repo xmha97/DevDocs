@@ -6,7 +6,7 @@ scheme:[//[user[:password]@]host[:port]]path[?query][#fragment]
 | Name |                             |                     |                   |          | Value                                                          |
 | :--: | :-------------------------: | :-----------------: | :---------------: | :------- | :------------------------------------------------------------- |
 | URL  |                             |                     |                   |          | `https://user:pw@example.com:80/path/example.php?q=e&s=t#nose` |
-|      |      Schema / Protocol      |                     |                   |          | `https`                                                        |
+|      |      Schema / Protocol      |                     |                   |          | `https`<br>`http`, `https`, `ftp`, `mailto`, `file`            |
 |      | HierarchicalPart / HierPart |                     |                   |          | `user:pw@example.com:80/path/example.php?q=e&s=t`              |
 |      |                             |      Authority      |                   |          | `user:pw@example.com:80`                                       |
 |      |                             |                     |     UserInfo      |          | `user:pw`                                                      |
