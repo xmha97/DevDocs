@@ -4,11 +4,10 @@
 |     URL     | `https://user:pw@keepass.info:80/path/example.php?q=e&s=t` |
 |   RMVSCM    |     `user:pw@keepass.info:80/path/example.php?q=e&s=t`     |
 |     SCM     |                          `https`                           |
-|    HOST     |                       `keepass.info`                       |
-|    PORT     |                            `80`                            |
-|    PATH     |                    `/path/example.php`                     |
-|    QUERY    |                         `?q=e&s=t`                         |
-|  USERINFO   |                         `user:pw`                          |
-|  USERNAME   |                           `user`                           |
-|  PASSWORD   |                            `pw`                            |
-SCM://
+|    Host     |                       `keepass.info`                       |
+|    Port     |                            `80`                            |
+|    Path     |                    `/path/example.php`                     |
+|    Query    |                         `?q=e&s=t`                         |
+|  UserInfo   |                         `user:pw`                          |
+|  Username   |                           `user`                           |
+|  PassWord   |                            `pw`                            |
