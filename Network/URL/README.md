@@ -3,7 +3,7 @@
 | :--: | :-------------: | :---------: | :---------------: | :------- | :--------------------------------------------------------- |
 | URL  |                 |             |                   |          | `https://user:pw@keepass.info:80/path/example.php?q=e&s=t` |
 |      | Schema/Protocol |             |                   |          | `https`                                                    |
-|      |    / RMVSCM     |             |                   |          | `user:pw@keepass.info:80/path/example.php?q=e&s=t`         |
+|      |     / RMVSCM    |             |                   |          | `user:pw@keepass.info:80/path/example.php?q=e&s=t`         |
 |      |                 |  Authority  |                   |          | `user:pw@keepass.info:80`                                  |
 |      |                 |             |     UserInfo      |          | `user:pw`                                                  |
 |      |                 |             |                   | Username | `user`                                                     |
