@@ -1,5 +1,10 @@
 # Uniform Resource Identifier (URI)
+```
+scheme:[//[user[:password]@]host[:port]]path[?query][#fragment]
+```
 
+
+```
 | Name |                             |                     |                   |          | Value                                                          |
 | :--: | :-------------------------: | :-----------------: | :---------------: | :------- | :------------------------------------------------------------- |
 | URL  |                             |                     |                   |          | `https://user:pw@example.com:80/path/example.php?q=e&s=t#nose` |
