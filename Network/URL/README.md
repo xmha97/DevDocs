@@ -11,7 +11,7 @@
 |      |        |        Port        |          | `:80`                                                      |
 |      |        |        Path        |          | `/path/example.php`                                        |
 |      |        |    Query String    |          | `?q=e&s=t`                                                 |
-|      |        |                    |  Key 1   |                                                            |
-|      |        |                    |          |                                                            |
-|      |        |                    |  Key 2   |                                                            |
-|      |        |                    |          |                                                            |
+|      |        |                    |  Key 1   | q                                                          |
+|      |        |                    | Value 1  | e                                                          |
+|      |        |                    |  Key 2   | s                                                          |
+|      |        |                    | Value 2  | t                                                          |
