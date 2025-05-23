@@ -21,3 +21,4 @@ scheme:[//[user[:password]@]host[:port]]path[?query][#fragment]
 |      |                             |                     |       Key2        |          | s                                                              |
 |      |                             |                     |      Value2       |          | t                                                              |
 |      |          Fragment           |                     |                   |          | nose                                                           |
+Source: https://datatracker.ietf.org/doc/html/rfc3986
