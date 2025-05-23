@@ -10,4 +10,8 @@
 |      |        | Host / Domain Name |          | `keepass.info`                                             |
 |      |        |        Port        |          | `:80`                                                      |
 |      |        |        Path        |          | `/path/example.php`                                        |
-|      |        | QueryQuery String  |          | `?q=e&s=t`                                                 |
+|      |        |    Query String    |          | `?q=e&s=t`                                                 |
+|      |        |                    |  Key 1   |                                                            |
+|      |        |                    |          |                                                            |
+|      |        |                    |  Key 2   |                                                            |
+|      |        |                    |          |                                                            |
