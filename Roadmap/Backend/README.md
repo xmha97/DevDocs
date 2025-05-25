@@ -1,8 +1,14 @@
 # Backend Developer | برنامه‌نویس بک‌اند
+- 
 - **Pick a Language:**
-	- JavaScript
+	- JavaScript*
 	- Go
 	- Python
+	- Ruby
+	- Java
+	- C#
+	- PHP
+	- Rust
 - **Version Control Systems:**
 	- Git
 - **Repo hosting services:**
