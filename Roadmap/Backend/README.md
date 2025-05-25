@@ -34,6 +34,7 @@
 	- Authentication (JWT)
 - **Caching:**
 	- Redis
+- Web Security
 - **More about Databases:**
 	- ORMs
 	- ACID
