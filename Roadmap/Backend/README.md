@@ -17,8 +17,10 @@
 	- Rust
 - **Version Control Systems:**
 	- Git
-- **Repo hosting services:**
+- **Repo Hosting Services:**
 	- Github
+	- GitLab
+	- Bitbucket
 - **Relational Databases:**
 	- PostgreSQL
 - **Learn about APIs:**
