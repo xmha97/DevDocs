@@ -4,4 +4,6 @@
 - Version Control Systems: Git
 - Repo hosting services: Github
 - Relational Databases: PostgreSQL
-- Learn about APIs: REST, JSON APIs, 
+- Learn about APIs: REST, JSON APIs, Authentication (JWT)
+- Caching: Redis
+- 
