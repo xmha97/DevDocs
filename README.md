@@ -6,4 +6,4 @@
 - Relational Databases: PostgreSQL
 - Learn about APIs: REST, JSON APIs, Authentication (JWT)
 - Caching: Redis
-- 
+- More about Databases: ORMs, ACID, Transactions, 
