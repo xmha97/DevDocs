@@ -5,9 +5,7 @@
 	- What is Domain Name?
 	- What is hosting?
 	- DNS and how it works?
-	- 
-	- FF
-	- GG
+	- Browsers and how they work?
 - **Pick a Language:**
 	- JavaScript
 	- Go
