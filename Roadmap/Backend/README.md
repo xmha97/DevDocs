@@ -23,6 +23,11 @@
 	- Bitbucket
 - **Relational Databases:**
 	- PostgreSQL
+	- MySQL
+	- MariaDB
+	- MS SQL
+	- Oracle
+	- SQLi
 - **Learn about APIs:**
 	- REST
 	- JSON APIs
