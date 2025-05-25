@@ -1,7 +1,15 @@
 # Backend Developer | برنامه‌نویس بک‌اند
-- 
+- **Internet:**
+	- How does the internet work?
+	- AA
+	- BB
+	- CC
+	- DD
+	- EE
+	- FF
+	- GG
 - **Pick a Language:**
-	- JavaScript*
+	- JavaScript
 	- Go
 	- Python
 	- Ruby
