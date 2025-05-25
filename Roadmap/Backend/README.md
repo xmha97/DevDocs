@@ -1,4 +1,4 @@
-## Backend Developer | برنامه‌نویس بک‌اند
+# Backend Developer | برنامه‌نویس بک‌اند
 - **Pick a Language:**
 	- JavaScript
 	- Go
@@ -7,20 +7,20 @@
 	- Git
 - **Repo hosting services:**
 	- Github
-- Relational Databases:
+- **Relational Databases:**
 	- PostgreSQL
-- Learn about APIs:
+- **Learn about APIs:**
 	- REST
 	- JSON APIs
 	- Authentication (JWT)
-- Caching:
+- **Caching:**
 	- Redis
-- More about Databases:
+- **More about Databases:**
 	- ORMs
 	- ACID
 	- Transactions
 	- N+1 Problem
-- Testing:
+- **Testing:**
 	- Integration Testing
 	- Unit Testing
 	- Functional Testing
