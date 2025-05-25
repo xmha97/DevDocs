@@ -1,11 +1,11 @@
 # Backend Developer | برنامه‌نویس بک‌اند
 - **Internet:**
 	- How does the internet work?
-	- AA
-	- BB
-	- CC
-	- DD
-	- EE
+	- What is HTTP?
+	- What is Domain Name?
+	- What is hosting?
+	- DNS and how it works?
+	- 
 	- FF
 	- GG
 - **Pick a Language:**
