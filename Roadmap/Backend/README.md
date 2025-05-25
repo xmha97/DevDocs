@@ -27,7 +27,7 @@
 	- MariaDB
 	- MS SQL
 	- Oracle
-	- SQLi
+	- SQLite
 - **Learn about APIs:**
 	- REST
 	- JSON APIs
