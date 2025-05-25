@@ -6,4 +6,5 @@
 - Relational Databases: PostgreSQL
 - Learn about APIs: REST, JSON APIs, Authentication (JWT)
 - Caching: Redis
-- More about Databases: ORMs, ACID, Transactions, 
+- More about Databases: ORMs, ACID, Transactions, N+1 Problem
+- Testing: Integration Testing, Unit Testing, 
