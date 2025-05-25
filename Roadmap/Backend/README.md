@@ -34,13 +34,14 @@
 	- Authentication (JWT)
 - **Caching:**
 	- Redis
-- Web Security
+- **Web Security:**
+	- HTTPS
+- **Testing:**
+	- Integration Testing
+	- Unit Testing
+	- Functional Testing
 - **More about Databases:**
 	- ORMs
 	- ACID
 	- Transactions
 	- N+1 Problem
-- **Testing:**
-	- Integration Testing
-	- Unit Testing
-	- Functional Testing
